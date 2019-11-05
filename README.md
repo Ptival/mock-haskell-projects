@@ -3,6 +3,29 @@ the Haskell ecosystem.
 
 I'd expect language tools to handle all such cases gracefully.
 
+# What do I test?
+
+For each project, I try to open the files in each subdirectory, and make sure
+that they type-check (making sure that the proper libraries are loaded for the
+proper targets).  I make sure to break the type-checking, because some
+type-checkers just say "everything is fine" when they are broken.
+
+Finally, I also like to make sure that my editor is aware of scoping.  So I try
+to "jump to the definition" of some variables, either from the same file, from
+another file in thi project, or from some external library that we don't have
+the code of.
+
+# What to take out of this?
+
+This is not meant to point fingers at "worse" plugins.  Rather, I hope to point
+fingers at plugins that do particularly great things, so that the other plugins
+can integrate such features.
+
+As such, I don't want any rating, so I use some silly emojis to indicate my
+feeling when using the inspected editor tool.  Please open an issue if you feel
+like I've missed an important point or am misrepresenting some tool.  I'd love
+to be proven wrong!
+
 # Mock projects
 
 01: A simple project
