@@ -26,6 +26,11 @@ feeling when using the inspected editor tool.  Please open an issue if you feel
 like I've missed an important point or am misrepresenting some tool.  I'd love
 to be proven wrong!
 
+# Most recent results
+
+- [haskell-ide-engine](https://github.com/Ptival/mock-haskell-projects/blob/master/haskell-ide-engine.md)
+- [intero](https://github.com/Ptival/mock-haskell-projects/blob/master/intero.md)
+
 # Mock projects
 
 01: A simple project
