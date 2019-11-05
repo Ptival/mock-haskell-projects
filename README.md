@@ -28,6 +28,9 @@ to be proven wrong!
 
 # Most recent results
 
+(in alphabetical order)
+
+- [dante](https://github.com/Ptival/mock-haskell-projects/blob/master/dante.md)
 - [haskell-ide-engine](https://github.com/Ptival/mock-haskell-projects/blob/master/haskell-ide-engine.md)
 - [intero](https://github.com/Ptival/mock-haskell-projects/blob/master/intero.md)
 
