@@ -7,8 +7,6 @@
 
 # Results
 
-## MacOS + nix + emacs + haskell-ide-engine (November 2019)
-
 01: A simple project
 --------------------
 
